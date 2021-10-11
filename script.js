@@ -28,19 +28,3 @@ const generateRandomMessage = () => {
 };
 
 console.log(generateRandomMessage());
-
-//Tests
-
-//1-Check if randomGreeting is correctly selected
-//console.log(messageParts.randomGreeting());
-//SUCCESS
-//2-Check the other random properties of messageParts
-//console.log(messageParts.randomReadyness());
-//console.log(messageParts.randomLevel());
-//console.log(messageParts.randomLanguage());
-//SUCCESS
-//3-Cehck if function generateRandomMessage works
-//console.log(generateRandomMessage());
-//console.log(generateRandomMessage());
-//console.log(generateRandomMessage());
-//SUCCESS

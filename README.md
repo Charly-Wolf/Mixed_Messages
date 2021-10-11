@@ -1,2 +1,3 @@
 # Mixed_Messages
-Mixed Messages - Codecademy 1st Portfolio Project
+
+## Mixed Messages - Codecademy 1st Portfolio Project
